@@ -7,7 +7,7 @@ Create a PR, it will be reviewed, and merged
 # Links
 
 ### Notable Documentation
-* ### Managing VMs
+* #### Managing VMs
     * [Instance Metadata Service](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/instance-metadata-service)
     * [Scheduled Events](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/scheduled-events)
 * #### Data security
