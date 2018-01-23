@@ -7,7 +7,12 @@ Create a PR, it will be reviewed, and merged
 # Links
 
 ### Notable Documentation
+### Managing VMs
+* [Instance Metadata Service](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/instance-metadata-service)
+* [Scheduled Events](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/scheduled-events)
 #### Data security
+* [Azure Security Overview](https://docs.microsoft.com/en-us/azure/security/azure-security)
+* [Azure Security Technical Capabilities](https://docs.microsoft.com/en-us/azure/security/azure-security-technical-capabilities)
 * [Azure Storage Service Encryption](https://docs.microsoft.com/en-us/azure/storage/common/storage-service-encryption) - Encryption for Data at Rest
 * [Log Analytics data security](https://docs.microsoft.com/en-us/azure/log-analytics/log-analytics-security)
 
