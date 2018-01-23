@@ -20,8 +20,12 @@ Create a PR, it will be reviewed, and merged
 * [Azure Pricing Calculator](https://azure.microsoft.com/en-gb/pricing/calculator/) - Official Azure pricing calculator.
 * [VM Size Browser](http://vmsizebrowser.azurewebsites.net/) - Azure VM Size Browser
 
-### Open source projects
+### Development tools
+* [Azure Functions Locally](https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local) - Run Azure functions locally
+* [Minio](https://www.minio.io/) - Multi-cloud object storage
 * [Foundatio](https://github.com/FoundatioFx/Foundatio) - .NET abstraction layer, for Azure storage, queueing and caching.
+* [DynamicDNSAzure](https://github.com/ivanthelad/dynamicdnsazure) - DNS service that discovers all servers deployed under a subscription and dynamically manages a dnsmasq instance
+* [DokanCloudFS](https://github.com/viciousviper/DokanCloudFS) - A virtual filesystem for various publicly accessible Cloud storage services on the Microsoft Windows platform.
 
 ### Online communities
 * [Azured](http://azured.io/) - Slack channel for all things Azure
