@@ -13,6 +13,7 @@ Create a PR, it will be reviewed, and merged
 * #### Data security
     * [Azure Security Overview](https://docs.microsoft.com/en-us/azure/security/azure-security)
     * [Azure Security Technical Capabilities](https://docs.microsoft.com/en-us/azure/security/azure-security-technical-capabilities)
+    * [Azure Data Deletion and Data Leakage](https://blogs.msdn.microsoft.com/walterm/2014/09/04/microsoft-azure-data-security-data-cleansing-and-leakage/)
     * [Azure Storage Service Encryption](https://docs.microsoft.com/en-us/azure/storage/common/storage-service-encryption) - Encryption for Data at Rest
     * [Log Analytics data security](https://docs.microsoft.com/en-us/azure/log-analytics/log-analytics-security)
 
